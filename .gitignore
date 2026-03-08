@@ -1,0 +1,17 @@
+.env
+.env.local
+*.pyc
+__pycache__/
+node_modules/
+.git/
+.DS_Store
+dist/
+build/
+.venv/
+venv/
+.pytest_cache/
+*.log
+.idea/
+.vscode/
+postgres_data/
+synthetic_data_*.csv

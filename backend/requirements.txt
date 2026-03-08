@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+hypercorn
+python-dotenv
+pydantic
+pydantic-settings
+email-validator
+SQLAlchemy
+PyMySQL
+scikit-learn
+pandas
+numpy
+python-multipart
+python-jose
+passlib
+bcrypt
+fairlearn

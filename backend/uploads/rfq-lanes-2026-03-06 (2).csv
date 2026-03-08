@@ -1,0 +1,6 @@
+Lane ID,Origin,Destination,Volume,Carrier,Service Level,Equipment,Rate
+LN-001,New York, NY,Los Angeles, CA,2847,FedEx,Standard,Dry Van 53ft,2450
+LN-002,Chicago, IL,Miami, FL,1923,UPS,Express,Dry Van 53ft,1850
+LN-003,Houston, TX,Seattle, WA,1654,XPO,Standard,Reefer 53ft,2100
+LN-004,Phoenix, AZ,Boston, MA,1432,JB Hunt,Standard,Dry Van 53ft,2650
+LN-005,Dallas, TX,Denver, CO,1287,Schneider,Express,Flatbed 48ft,1450
